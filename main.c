@@ -15,6 +15,8 @@ int find_code(int inpCode){
         return finder;
 }
 
+//bonjour le monde
+
 int main()
 {
     int i= 0, cpt=3, inpCode;
